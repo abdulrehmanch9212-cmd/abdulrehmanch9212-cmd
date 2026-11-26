@@ -1,10 +1,14 @@
 <div align="center">
 
+![Mr Abdul Rehman — Local SEO Specialist | Get Found. Get Leads. Automate Growth.](assets/premium-v2/hero.svg)
+
 # Mr Abdul Rehman
 
 ### Local SEO Specialist | Google Business Profile | WordPress SEO
 
 **Get Found. Get Leads. Automate Growth.**
+
+[![Professional website](assets/premium-v2/website.svg)](https://mrabdulrehman.com) [![Hire on Upwork](assets/premium-v2/upwork.svg)](https://www.upwork.com/freelancers/~01cd2b37f55ab3e085)
 
 [Professional website](https://mrabdulrehman.com) · [Hire on Upwork](https://www.upwork.com/freelancers/~01cd2b37f55ab3e085)
 
@@ -18,6 +22,8 @@ I help local businesses improve their online visibility through practical local 
 
 ## Core services
 
+![Local SEO, Google Business Profile, Local Citations, WordPress SEO and AI Automation service cards](assets/premium-v2/services.svg)
+
 | Service | Focus |
 | --- | --- |
 | Local SEO | Local search audits, service-area pages and keyword research |
@@ -25,6 +31,12 @@ I help local businesses improve their online visibility through practical local 
 | Local citations | Business listing consistency and NAP audits |
 | WordPress SEO | On-page optimization, internal linking and technical checks |
 | AI automation | Developing practical n8n workflows and reporting utilities |
+
+## Tools & technologies
+
+![Search Console, Google Analytics, WordPress, Python and n8n](assets/premium-v2/technology.svg)
+
+Google Search Console · Google Analytics · WordPress · Python · n8n
 
 ## Technical portfolio
 
@@ -40,6 +52,9 @@ Current development focus: a lightweight on-page SEO audit utility and reusable 
 - No public sharing of private client data, credentials or proprietary code without authorization.
 
 ## Connect
+
+![Let's build something valuable — evidence-based SEO and client confidentiality](assets/premium-v2/footer.svg)
+
 
 - **Independent inquiries:** [Professional website](https://mrabdulrehman.com)
 - **Upwork clients:** [View my Upwork profile](https://www.upwork.com/freelancers/~01cd2b37f55ab3e085) — keep communication and contracting on Upwork in accordance with its terms.
