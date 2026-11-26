@@ -6,7 +6,7 @@
 
 **Get Found. Get Leads. Automate Growth.**
 
-[Professional website](https://mrabdulrehman.com)
+[Professional website](https://mrabdulrehman.com) · [Hire on Upwork](https://www.upwork.com/freelancers/~01cd2b37f55ab3e085)
 
 </div>
 
@@ -41,5 +41,7 @@ Current development focus: a lightweight on-page SEO audit utility and reusable 
 
 ## Connect
 
-Learn more about my services and professional work at [mrabdulrehman.com](https://mrabdulrehman.com).
+- **Independent inquiries:** [Professional website](https://mrabdulrehman.com)
+- **Upwork clients:** [View my Upwork profile](https://www.upwork.com/freelancers/~01cd2b37f55ab3e085) — keep communication and contracting on Upwork in accordance with its terms.
+
 
