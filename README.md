@@ -29,9 +29,9 @@ Based in Madinah, Saudi Arabia, I focus on local businesses and international fr
 
 ## Technical portfolio
 
-This profile is being developed as a collection of practical SEO utilities, documented workflows and approved case studies. Projects will be linked here after testing and review.
+This profile is being developed as a collection of practical SEO utilities, documented workflows and approved case studies. Projects are linked here once they are tested, reviewed and published.
 
-**Current focus:** a lightweight on-page SEO audit utility and reusable local SEO checklists.
+**Current focus:** a Python on-page SEO audit tool (97 automated tests passing) plus reusable local SEO checklists — a Google Business Profile toolkit, a citation manager, a WordPress SEO toolkit, verified case studies, and safe AI-automation examples. Repositories are published here once they are tested and reviewed.
 
 ## How I work
 
